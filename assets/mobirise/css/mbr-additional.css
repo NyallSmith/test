@@ -4477,13 +4477,8 @@ body {
 .cid-qCmJ1HSzdq .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qDHebsMKIt {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #efefef;
-}
 .cid-qDHdYWR4A6 {
-  padding-top: 45px;
+  padding-top: 120px;
   padding-bottom: 120px;
   background-color: #efefef;
 }
@@ -4742,7 +4737,7 @@ body {
   background: transparent !important;
 }
 .cid-qDHdYWR4A6 .image_wrapper {
-  height: 400px;
+  height: 540px;
   width: 100%;
   position: relative;
   display: inline-block;
